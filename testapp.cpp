@@ -11,8 +11,8 @@
 #include <boost/thread/locks.hpp>
 #include <boost/thread/shared_mutex.hpp>
 
-#include "../redis4cpp/interface.h"
-#include "../redis4cpp/dataaccess.h"
+#include "src/interface.h"
+#include "src/dataaccess.h"
 
 using namespace std;
 
